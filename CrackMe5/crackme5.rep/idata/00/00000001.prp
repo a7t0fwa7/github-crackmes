@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILE_INFO>
+    <BASIC_INFO>
+        <STATE NAME="CONTENT_TYPE" TYPE="string" VALUE="Trace" />
+        <STATE NAME="PARENT" TYPE="string" VALUE="/New Traces" />
+        <STATE NAME="FILE_ID" TYPE="string" VALUE="c0a8986560d59896299391800" />
+        <STATE NAME="FILE_TYPE" TYPE="int" VALUE="0" />
+        <STATE NAME="READ_ONLY" TYPE="boolean" VALUE="false" />
+        <STATE NAME="NAME" TYPE="string" VALUE="0x3a68 2022.11.04-18.32.55-AWST" />
+    </BASIC_INFO>
+</FILE_INFO>
