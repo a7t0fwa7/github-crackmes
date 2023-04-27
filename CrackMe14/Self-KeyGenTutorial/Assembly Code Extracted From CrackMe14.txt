@@ -1,0 +1,14 @@
+; Source: crackme14.exe (base 0x00400000 - 4194304)
+
+
+; Start of selected range: 0x00403ACD
+mov dword ptr [ebp-5Ch],0FFFFFFFFh
+lea eax,dword ptr [ebp-2Ch]
+mov dword ptr [esp],eax
+call &GetLocalTime
+sub esp,4h
+movzx eax,word ptr [ebp-2Ch]
+add eax,4D2h
+movzx ecx,word ptr [ebp-2Ah]
+movzx edx,word ptr [ebp-26h]
+; Finish of selected range: 0x00403AF2
